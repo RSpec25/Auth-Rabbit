@@ -58,6 +58,3 @@ app.listen(port, () => {
     console.log(`app listening on port: ${port}`);
 })
 
-
-// AKIAU6GD2HZJ564Q6KYJ -access key
-// xFTgfEhFlFa+IoKQfZrs52hw+8kNhI+T/+xKBHUN - secret access key
